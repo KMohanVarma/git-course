@@ -3,3 +3,5 @@ process the data
 
 create avatar for user
 create avatar 2 for user
+
+login and logout
